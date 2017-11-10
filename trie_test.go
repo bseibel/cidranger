@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	rnet "github.com/yl2chen/cidranger/net"
+	rnet "github.com/bseibel/cidranger/net"
 )
 
 func TestPrefixTrieInsert(t *testing.T) {
